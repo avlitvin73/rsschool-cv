@@ -1,0 +1,7 @@
+body::before {
+	content: 'Hello!';
+}
+
+body:hover:before {
+	content: 'Hello world!';
+}
