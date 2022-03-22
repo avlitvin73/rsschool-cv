@@ -12,3 +12,15 @@ It is very important for me not to stand still and develop every day, my dream i
 * web
 * python
 * html/css/js
+
+### Code:
+```
+let stopClick = function(event) {
+	score++;
+	textScore.text(`Score is: $(score)`);
+	if (score >= 10) {
+		clearInterval(squareID);
+		textToWinner = alert('You are winner!');
+	}
+}
+```
