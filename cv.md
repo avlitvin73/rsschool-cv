@@ -30,3 +30,8 @@ let stopClick = function(event) {
 https://dream-boat-msk.ru/ 
 * A few of the training projects on JavaScript
 https://github.com/Pylearn2017/Js/tree/master/JS
+
+### Education:
+* Higher engineering education 
+* Moscow Aviation Institute
+* RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
