@@ -24,3 +24,9 @@ let stopClick = function(event) {
 	}
 }
 ```
+
+### Experience:
+A simple commercial order to the site with a registration form
+https://dream-boat-msk.ru/ 
+A few of the training projects on JavaScript
+https://github.com/Pylearn2017/Js/tree/master/JS
