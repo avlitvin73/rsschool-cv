@@ -35,3 +35,8 @@ https://github.com/Pylearn2017/Js/tree/master/JS
 * Higher engineering education 
 * Moscow Aviation Institute
 * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+
+
+### Languages:
+* Russian - native speaker.
+* English - A2 (B1 in process…)
