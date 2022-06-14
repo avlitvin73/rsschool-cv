@@ -1,7 +1,24 @@
-body::before {
-	content: 'Hello!';
+.container {
+	width: 1080px;
+	margin: 0 auto; 
 }
 
-body:hover:before {
-	content: 'Hello world!';
+.navigation {
+	display: flex;
+	justify-content: space-around;
+}
+
+.circle {
+	border-radius: 50%;
+	height: 200px;
+}
+
+.footer__wrapper {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	background-color: #ccc;
+}
+.logo-rsschool {
+	height: 30px;
 }
